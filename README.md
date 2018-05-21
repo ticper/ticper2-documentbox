@@ -1,0 +1,2 @@
+# ticper2-documentbox
+Ticper2関連のドキュメントを管理するリポジトリ
